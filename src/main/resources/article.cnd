@@ -1,0 +1,29 @@
+<teqto = 'http://www.teqtosystem.com/article'>
+[teqto:article]
+- teqto:title (string)
+mandatory
+- teqto:teaser (string)
+= 'na'
+mandatory
+- teqto:articleType (string)
+= 'na'
+mandatory
+- teqto:moId (string)
+= 'na'
+mandatory
+- teqto:order (string)
+= 'na'
+mandatory
+- teqto:authorId (string)
+= 'na'
+mandatory
+- teqto:syllabusId (string)
+= 'na'
+mandatory
+- teqto:body (string)
+= 'na'
+mandatory
+- teqto:contentType (string)
+= 'na'
+mandatory
+- * (undefined)
